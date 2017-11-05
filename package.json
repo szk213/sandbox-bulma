@@ -1,0 +1,26 @@
+{
+  "name": "sandbox-bulma",
+  "version": "1.0.0",
+  "description": "sandbox-bulma\r ===",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "http-server -p 80 -o",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szk213/sandbox-bulma.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szk213/sandbox-bulma/issues"
+  },
+  "homepage": "https://github.com/szk213/sandbox-bulma#readme",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
